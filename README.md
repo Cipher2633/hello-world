@@ -1,2 +1,2 @@
 # hello-world
-the traditions
+It's a tradition
